@@ -1,3 +1,12 @@
+# The images from the project
+
+<img
+src=“images/landingPage-one.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
