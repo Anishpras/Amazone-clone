@@ -17,20 +17,6 @@ function Login() {
       .catch((err) => alert(err.message));
   };
 
-  const register = (e) => {
-    e.preventDefault();
-
-    auth
-      .createUserWithEmailAndPassword(email, password)
-      .then((auth) => {
-        console.log(auth);
-        if (auth) {
-          history.push("/");
-        }
-      })
-      .catch((error) => alert(error.message));
-  };
-
   return (
     <div className="login">
       <Link to="/">
@@ -69,9 +55,9 @@ function Login() {
           Please see our Privacy Notice, our Cookies Notice and our
           Interest-Based Ads Notice.
         </p>
-        <button onClick={register} className="login__registerButton">
-          Create an account
-        </button>
+        <Link to="/register">
+          <button className="login__registerButton">Create an account</button>
+        </Link>
       </div>
     </div>
   );
