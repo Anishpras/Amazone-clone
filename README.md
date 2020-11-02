@@ -1,4 +1,14 @@
+# This is an Amazone clone created with help of ReactJs and Firebase.
+
+## Due to payment issues the app was not deployed.
+
+## You can go to the link below to see the working video on localhost.
+
+[working video of amazone clone]: https://drive.google.com/file/d/1ChuewIpWMLNEztjAnxCIbwWPMtkO_vPJ/view?usp=sharing
+
 # The images from the project
+
+## Landing Page of Amazone-clone
 
 ![picture](images/landingPage-one.png)
 
