@@ -36,7 +36,7 @@
 
 ### Payment in procedure
 
-![picture](images/landingPage-one.png)
+![picture](images/paymentProcedure.png)
 
 ### Orders Page
 
