@@ -1,16 +1,50 @@
-# This is an Amazone clone created with help of ReactJs and Firebase.
+# This is an Amazone clone created with help of ReactJs, StripeJs and Firebase.
 
 ## Due to payment issues the app was not deployed.
 
-## You can go to the link below to see the working video on localhost.
+### You can go to the link below to see the working video on localhost.
 
 <https://drive.google.com/file/d/1ChuewIpWMLNEztjAnxCIbwWPMtkO_vPJ/view?usp=sharing>
 
 # The images from the project
 
-## Landing Page of Amazone-clone
+### Landing Page of Amazone-clone
 
 ![picture](images/landingPage-one.png)
+
+![picture](images/landingPage-two.png)
+
+### Sign-In Page
+
+![picture](images/signInPage.png)
+
+### Sign-Up Page
+
+![picture](images/signUpPage.png)
+
+### Side pop-up of selected Items using NotyJs
+
+[picture](images/noty.png)
+
+### Items in the cart page
+
+![picture](images/basket.png)
+
+### Checkout Page
+
+![picture](images/checkout.png)
+
+### Payment in procedure
+
+![picture](images/landingPage-one.png)
+
+### Orders Page
+
+[picture](images/orders.png)
+
+### Orders data from firestore
+
+[picture](images/ordersTwo.png)
 
 # Getting Started with Create React App
 
