@@ -1,11 +1,6 @@
 # The images from the project
 
-<img
-src=“images/landingPage-one.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![picture](images/landingPage-one.png)
 
 # Getting Started with Create React App
 
