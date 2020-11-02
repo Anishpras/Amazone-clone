@@ -4,7 +4,7 @@
 
 ## You can go to the link below to see the working video on localhost.
 
-[a link]: https://drive.google.com/file/d/1ChuewIpWMLNEztjAnxCIbwWPMtkO_vPJ/view?usp=sharing
+<https://drive.google.com/file/d/1ChuewIpWMLNEztjAnxCIbwWPMtkO_vPJ/view?usp=sharing>
 
 # The images from the project
 
