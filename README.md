@@ -24,7 +24,7 @@
 
 ### Side pop-up of selected Items using NotyJs
 
-[picture](images/noty.png)
+![picture](images/noty.png)
 
 ### Items in the cart page
 
@@ -40,11 +40,11 @@
 
 ### Orders Page
 
-[picture](images/orders.png)
+![picture](images/orders.png)
 
 ### Orders data from firestore
 
-[picture](images/ordersTwo.png)
+![picture](images/ordersTwo.png)
 
 # Getting Started with Create React App
 
